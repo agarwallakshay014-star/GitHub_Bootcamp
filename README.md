@@ -39,7 +39,8 @@ project-folder/
 
 ## Screenshot
 
-Add a screenshot of your project here.
+<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/a69cb76b-6571-45d6-9309-4928cab55db1" />
+
 
 ## Author
 
